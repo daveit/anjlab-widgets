@@ -9,7 +9,7 @@ module Anjlab
       when :ru
         "%d.%m.%Y"
       when :en
-        "%m/%d/%Y"
+        "%d/%m/%Y"
       when :es
         "%d/%m/%Y"
       when :pt
